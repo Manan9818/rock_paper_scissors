@@ -1,0 +1,31 @@
+.top1{
+    text-align: center;
+    font-size: 50px;
+    color:purple;
+    padding: 30px;
+}
+body{
+    background-color: red;
+}
+.images{
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+}
+.buttons{
+    display: flex;
+    justify-content: space-around;
+    font-size: xx-large;
+    font-weight: 900;
+    
+}
+button{
+    padding: 30px;
+}
+.result{
+    justify-items: center;
+}
+p{
+    font-size: x-large;
+    font-weight: 900;
+}
